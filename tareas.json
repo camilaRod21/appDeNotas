@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Estudiar javaScript",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Repasar para la clase",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Hacer el tp 2",
+        "estado": "Pendiente"
+    }
+]
